@@ -1,0 +1,9 @@
+/*start servises*/
+.services-tow{
+  background-color: #f3f2f0;;
+}
+.text-services span{
+  color:var(--main);
+  font-size: 0.8rem !important;
+}
+/*end services*/
